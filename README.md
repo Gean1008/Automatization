@@ -1,3 +1,3 @@
 # Automatization
 Labs and tasks from Automatization tasks
-А ещё мой первый проект закинутый на GitHub)))
+А ещё мой первый проект закинутый на GitHub, с помошью IntellijIDEA)))
